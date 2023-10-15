@@ -5,6 +5,6 @@
 - 🐍 Python enthusiast.
 - ❤️ I love application development, chilling with people, parties and mountain sports.
 - 🤓 I usually create bugs and sometimes cool stuffs.
-- 📫 How to reach me: text me at `le-chartreux-vertATprotonmailDOTcom` (replace `AT` with `@` and `DOT` with `.`).
+- 📫 How to reach me: text me at [le-chartreux-vert@protonmail.com](mailto:le-chartreux-vert@protonmail.com).
 - 🏖 Fun fact: pythons live above the sea level.
 
