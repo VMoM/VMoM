@@ -1,6 +1,6 @@
 #### Me, myself and I
 
-- 👨‍🎓 Apprentice studying at Telecom Nancy and working in a dev team at [STMicroelectronics](https://www.st.com).
+- 👨‍🎓 Apprentice studying at [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/?lang=en) and working in a dev team at [STMicroelectronics](https://www.st.com).
 - 🌱 Currently learning how to use [Apache Airflow](https://airflow.apache.org/) to orchestrate massive industrial flows.
 - 🐍 Python enthusiast, obsessed by clean coding and modern tools. Check [my tutorial about it](https://github.com/le-chartreux/modern-python)!
 - ❤️ I love application development, mountain sports and cars.
